@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">android project</string>
+    <string name="title_activity_login">login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_repassword">Passwords have to match</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="shopper">Shopper</string>
+    <string name="business">Business</string>
+    <string name="login">Log in</string>
+    <string name="already">already have an account?</string>
+    <string name="signupas">Sign up as:</string>
+    <string name="prompt_repassword">Password confirmation</string>
+    <string name="prompt_name">Name</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="title_activity_browse">Browse</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Main</string>
+    <string name="menu_gallery">Currency</string>
+    <string name="menu_slideshow">Language</string>
+    <string name="chng_lang">Change Language</string>
+    <string name="title_activity_main">Main</string>
+
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_btn">Add Product</string>
+
+
+    <string name="option_profile">Profile</string>
+    <string name="option_settings">Settings</string>
+    <string name="option_main">Home</string>
+    <string name="option_promos">Promos</string>
+    <string name="option_help">Help Center</string>
+    <string name="option_currency">Currency</string>
+    <string name="option_logout">Log out</string>
+
+    <string name="chng_curr">Change Currency</string>
+
+    <string name="product_btn_update">Update product</string>
+</resources>

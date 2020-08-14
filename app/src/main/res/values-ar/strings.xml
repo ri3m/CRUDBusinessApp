@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android project</string>
+    <string name="title_activity_login">تسجيل الدخول</string>
+    <string name="prompt_email">البريد الالكتروني</string>
+    <string name="prompt_password">كلمة المرور</string>
+    <string name="action_sign_in">تسجيل الدخول</string>
+    <string name="action_sign_in_short">تسجيل</string>
+    <string name="welcome">اهلا</string>
+    <string name="invalid_username">اسم المستخدم غير صالح</string>
+    <string name="invalid_password">كلمة المرور يجب ان تحتوي على اكثر من خمسة حروف</string>
+    <string name="invalid_repassword">كلمتي المرور يجب ان يتطابقا</string>
+    <string name="login_failed">خطأ في تسجيل الدخول</string>
+    <string name="shopper">متسوق</string>
+    <string name="business">بائع</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="already">هل لديك حساب؟</string>
+    <string name="signupas">التسجيل ك:</string>
+    <string name="prompt_repassword">تأكيد كلمة المرور</string>
+    <string name="prompt_name">الاسم</string>
+    <string name="action_sign_up">تسجيل</string>
+    <string name="title_activity_browse">تصفح</string>
+    <string name="menu_home">الصفحة الرئيسية</string>
+    <string name="product_btn">اضافة المنتج</string>
+    <string name="product_description">وصف المنتج</string>
+    <string name="product_price">سعر المنتج</string>
+    <string name="product_name">اسم المنتج</string>
+    <string name="title_activity_main">الصفحة الرئيسية</string>
+    <string name="menu_slideshow">اللغة</string>
+    <string name="menu_gallery">العملة</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="navigation_drawer_open">افتح</string>
+    <string name="navigation_drawer_close">اغلق</string>
+    <string name="nav_header_desc">هيدير</string>
+    <string name="chng_lang">غير اللغة</string>
+
+    <string name="option_profile">ملف المستخدم</string>
+    <string name="option_settings">الاعدادات</string>
+    <string name="option_main">الصفحة الرئيسية</string>
+    <string name="option_promos">العروض</string>
+    <string name="option_help">مساعدة</string>
+    <string name="option_currency">العملة</string>
+    <string name="option_logout">تسجيل الخروج</string>
+    <string name="chng_curr">تغيير العملة</string>
+    <string name="product_btn_update">تعديل المنتج</string>
+</resources>
