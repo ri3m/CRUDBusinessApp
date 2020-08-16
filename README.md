@@ -5,6 +5,7 @@ Users can sign up, login, and CRUD prodocts, as well as change the language of t
 ## Tools Used:
 - Android Studio.
 - SQLlite database.
+- Languages: Java, XML and SQL.
 
 ## Interfaces:
 ### Login:
